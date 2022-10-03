@@ -102,7 +102,7 @@ nav span {
     display: flex;
     justify-content: center;
     align-items: center;
-    width:325px;
+    width:100%;
     padding: 8px 0;
     color: #fff;
     background-color: #4a4a4a;
