@@ -119,6 +119,8 @@ nav span {
 .container-2 {
     display: flex;
     flex-direction: row;
+    /* optional similar to wireframe */
+    /* padding: 0 0 32px 0; */
 }
 
 .container-2-left {
@@ -138,6 +140,9 @@ nav span {
 
 .container-2-left .author {
     margin: 32px 0;
+    /* optional similar to wireframe */
+    /* margin: 32px 0 0 0; */
+
 }
 
 .container-2-right {
